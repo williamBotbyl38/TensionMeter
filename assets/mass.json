@@ -1,0 +1,415 @@
+[
+  {
+    "pitch": "AT3",
+    "mass": {
+      "Steel/Stainless/HiFlex": 0.0216,
+      "kevlar": -1
+    }
+  },
+  {
+    "pitch": "AT5",
+    "mass": {
+      "Steel/Stainless/HiFlex": 0.0327,
+      "kevlar": -1
+    }
+  },
+  {
+    "pitch": "AT5-DL",
+    "mass": {
+      "Steel/Stainless/HiFlex": 0.041,
+      "kevlar": -1
+    }
+  },
+  {
+    "pitch": "ATL5",
+    "mass": {
+      "Steel/Stainless/HiFlex": 0.0374,
+      "kevlar": -1
+    }
+  },
+  {
+    "pitch": "ATN12.7",
+    "mass": {
+      "Steel/Stainless/HiFlex": 0.0444,
+      "kevlar": -1
+    }
+  },
+  {
+    "pitch": "ATN10",
+    "mass": {
+      "Steel/Stainless/HiFlex": 0.048,
+      "kevlar": -1
+    }
+  },
+  {
+    "pitch": "AT10",
+    "mass": {
+      "Steel/Stainless/HiFlex": 0.0581,
+      "kevlar": 0.0437
+    }
+  },
+  {
+    "pitch": "AT10-DL",
+    "mass": {
+      "Steel/Stainless/HiFlex": 0.0755,
+      "kevlar": -1
+    }
+  },
+  {
+    "pitch": "AT10 MOV",
+    "mass": {
+      "Steel/Stainless/HiFlex": 0.0701,
+      "kevlar": -1
+    }
+  },
+  {
+    "pitch": "ATL10",
+    "mass": {
+      "Steel/Stainless/HiFlex": 0.068,
+      "kevlar": -1
+    }
+  },
+  {
+    "pitch": "BAT10",
+    "mass": {
+      "Steel/Stainless/HiFlex": 0.0581,
+      "kevlar": -1
+    }
+  },
+  {
+    "pitch": "BATK10",
+    "mass": {
+      "Steel/Stainless/HiFlex": 0.06,
+      "kevlar": -1
+    }
+  },
+  {
+    "pitch": "ATP10",
+    "mass": {
+      "Steel/Stainless/HiFlex": 0.06,
+      "kevlar": -1
+    }
+  },
+  {
+    "pitch": "ATP10-DL",
+    "mass": {
+      "Steel/Stainless/HiFlex": 0.0636,
+      "kevlar": -1
+    }
+  },
+  {
+    "pitch": "SFAT10",
+    "mass": {
+      "Steel/Stainless/HiFlex": 0.0581,
+      "kevlar": -1
+    }
+  },
+  {
+    "pitch": "ATS15",
+    "mass": {
+      "Steel/Stainless/HiFlex": 0.1,
+      "kevlar": -1
+    }
+  },
+  {
+    "pitch": "ATS15-DL",
+    "mass": {
+      "Steel/Stainless/HiFlex": 0.1178,
+      "kevlar": -1
+    }
+  },
+  {
+    "pitch": "BAT15",
+    "mass": {
+      "Steel/Stainless/HiFlex": 0.0856,
+      "kevlar": -1
+    }
+  },
+  {
+    "pitch": "BATK15",
+    "mass": {
+      "Steel/Stainless/HiFlex": 0.0856,
+      "kevlar": -1
+    }
+  },
+  {
+    "pitch": "ATP15",
+    "mass": {
+      "Steel/Stainless/HiFlex": 0.08,
+      "kevlar": -1
+    }
+  },
+  {
+    "pitch": "ATP15-DL",
+    "mass": {
+      "Steel/Stainless/HiFlex": 0.0876,
+      "kevlar": -1
+    }
+  },
+  {
+    "pitch": "SFAT15",
+    "mass": {
+      "Steel/Stainless/HiFlex": 0.0875,
+      "kevlar": -1
+    }
+  },
+  {
+    "pitch": "AT15 MOV",
+    "mass": {
+      "Steel/Stainless/HiFlex": 0.0946,
+      "kevlar": -1
+    }
+  },
+  {
+    "pitch": "ATN20",
+    "mass": {
+      "Steel/Stainless/HiFlex": 0.0806,
+      "kevlar": -1
+    }
+  },
+  {
+    "pitch": "AT20",
+    "mass": {
+      "Steel/Stainless/HiFlex": 0.096,
+      "kevlar": -1
+    }
+  },
+  {
+    "pitch": "AT20-DL",
+    "mass": {
+      "Steel/Stainless/HiFlex": 0.114,
+      "kevlar": -1
+    }
+  },
+  {
+    "pitch": "ATL20",
+    "mass": {
+      "Steel/Stainless/HiFlex": 0.111,
+      "kevlar": -1
+    }
+  },
+  {
+    "pitch": "SFAT20",
+    "mass": {
+      "Steel/Stainless/HiFlex": 0.096,
+      "kevlar": -1
+    }
+  },
+  {
+    "pitch": "T2",
+    "mass": {
+      "Steel/Stainless/HiFlex": 0.012,
+      "kevlar": -1
+    }
+  },
+  {
+    "pitch": "T2.5",
+    "mass": {
+      "Steel/Stainless/HiFlex": 0.015,
+      "kevlar": -1
+    }
+  },
+  {
+    "pitch": "T5",
+    "mass": {
+      "Steel/Stainless/HiFlex": 0.0233,
+      "kevlar": -1
+    }
+  },
+  {
+    "pitch": "T5-DL",
+    "mass": {
+      "Steel/Stainless/HiFlex": 0.0283,
+      "kevlar": 0.0253
+    }
+  },
+  {
+    "pitch": "T10",
+    "mass": {
+      "Steel/Stainless/HiFlex": 0.0454,
+      "kevlar": 0.0396
+    }
+  },
+  {
+    "pitch": "T10-DL",
+    "mass": {
+      "Steel/Stainless/HiFlex": 0.0586,
+      "kevlar": -1
+    }
+  },
+  {
+    "pitch": "T20",
+    "mass": {
+      "Steel/Stainless/HiFlex": 0.0736,
+      "kevlar": -1
+    }
+  },
+  {
+    "pitch": "T20-DL",
+    "mass": {
+      "Steel/Stainless/HiFlex": 0.0986,
+      "kevlar": -1
+    }
+  },
+  {
+    "pitch": "MXL",
+    "mass": {
+      "Steel/Stainless/HiFlex": 0.012,
+      "kevlar": -1
+    }
+  },
+  {
+    "pitch": "T1/5\"",
+    "mass": {
+      "Steel/Stainless/HiFlex": 0.024,
+      "kevlar": -1
+    }
+  },
+  {
+    "pitch": "T3/8\"",
+    "mass": {
+      "Steel/Stainless/HiFlex": 0.0349,
+      "kevlar": -1
+    }
+  },
+  {
+    "pitch": "T1/2\"",
+    "mass": {
+      "Steel/Stainless/HiFlex": 0.0425,
+      "kevlar": -1
+    }
+  },
+  {
+    "pitch": "T1/2\"-DL",
+    "mass": {
+      "Steel/Stainless/HiFlex": 0.0519,
+      "kevlar": -1
+    }
+  },
+  {
+    "pitch": "T7/8\"",
+    "mass": {
+      "Steel/Stainless/HiFlex": 0.1042,
+      "kevlar": -1
+    }
+  },
+  {
+    "pitch": "HTD3M-HP",
+    "mass": {
+      "Steel/Stainless/HiFlex": 0.031,
+      "kevlar": -1
+    }
+  },
+  {
+    "pitch": "HTD5M-HP",
+    "mass": {
+      "Steel/Stainless/HiFlex": 0.041,
+      "kevlar": -1
+    }
+  },
+  {
+    "pitch": "HTD5M-HF",
+    "mass": {
+      "Steel/Stainless/HiFlex": 0.034,
+      "kevlar": -1
+    }
+  },
+  {
+    "pitch": "HTD8M-HP",
+    "mass": {
+      "Steel/Stainless/HiFlex": 0.063,
+      "kevlar": -1
+    }
+  },
+  {
+    "pitch": "HTD8M-HF",
+    "mass": {
+      "Steel/Stainless/HiFlex": 0.054,
+      "kevlar": -1
+    }
+  },
+  {
+    "pitch": "HTD14M-HP",
+    "mass": {
+      "Steel/Stainless/HiFlex": 0.113,
+      "kevlar": -1
+    }
+  },
+  {
+    "pitch": "F1",
+    "mass": {
+      "Steel/Stainless/HiFlex": 0.015,
+      "kevlar": -1
+    }
+  },
+  {
+    "pitch": "F2",
+    "mass": {
+      "Steel/Stainless/HiFlex": 0.0322,
+      "kevlar": -1
+    }
+  },
+  {
+    "pitch": "F2.2",
+    "mass": {
+      "Steel/Stainless/HiFlex": 0.0366,
+      "kevlar": -1
+    }
+  },
+  {
+    "pitch": "F3",
+    "mass": {
+      "Steel/Stainless/HiFlex": 0.0445,
+      "kevlar": -1
+    }
+  },
+  {
+    "pitch": "F4",
+    "mass": {
+      "Steel/Stainless/HiFlex": 0.06,
+      "kevlar": -1
+    }
+  },
+  {
+    "pitch": "F5",
+    "mass": {
+      "Steel/Stainless/HiFlex": 0.0787,
+      "kevlar": -1
+    }
+  },
+  {
+    "pitch": "F6",
+    "mass": {
+      "Steel/Stainless/HiFlex": 0.0894,
+      "kevlar": -1
+    }
+  },
+  {
+    "pitch": "F8",
+    "mass": {
+      "Steel/Stainless/HiFlex": 0.119,
+      "kevlar": -1
+    }
+  },
+  {
+    "pitch": "AT5-CF",
+    "mass": {
+      "Steel/Stainless/HiFlex": 0.0327,
+      "kevlar": -1
+    }
+  },
+  {
+    "pitch": "AT10-CF",
+    "mass": {
+      "Steel/Stainless/HiFlex": 0.0581,
+      "kevlar": -1
+    }
+  },
+  {
+    "pitch": "ATL10-CF",
+    "mass": {
+      "Steel/Stainless/HiFlex": 0.068,
+      "kevlar": -1
+    }
+  }
+]
